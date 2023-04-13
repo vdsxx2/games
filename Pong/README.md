@@ -1,6 +1,6 @@
 # pong game
 
-**please disregard the bad window, this game was created several years ago.
+please disregard the bad window sizing, this game was created several years ago.
 ---------------------------------------------------------------------------
 Your traditional Pong game! Play against an AI, and first to score 15 points wins.
 
